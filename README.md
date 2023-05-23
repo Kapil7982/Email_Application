@@ -1,5 +1,5 @@
 # Email_application
-A simple Mail Application where user can send and received mail from different registered users and perform all the CURD operations.
+A Mail Application where user can send and received mail from different registered users and perform all the CURD operations.
 
 ## REST API Use for below functions
 - User can create his account.
